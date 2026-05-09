@@ -1,6 +1,7 @@
 <h1>🧮 Calculadora</h1>
 
 <h2>Calculadora funcional desenvolvida com HTML, CSS e JavaScript.
+  
 O projeto permite realizar operações matemáticas básicas de forma simples e interativa, praticando lógica de programação e manipulação do DOM.</h2>
 
 <br>
