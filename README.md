@@ -1,26 +1,58 @@
-<h1>🧮 Calculadora<h1/>
+<h1>🧮 Calculadora</h1>
 
-<h2>Calculadora funcional desenvolvida com HTML, CSS e JavaScript. Permite realizar operações básicas como adição, subtração, multiplicação e divisão.<h2/>
+<h2>Calculadora funcional desenvolvida com HTML, CSS e JavaScript.
+O projeto permite realizar operações matemáticas básicas de forma simples e interativa, praticando lógica de programação e manipulação do DOM.</h2>
+
 <br>
-<h2>🚀 Tecnologias utilizadas:<h2/>
-- <a href="https://google.com"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /></a>
+
+<h1>🚀 Tecnologias utilizadas</h1>
+
+<h2>- HTML5
   <br>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+- CSS3
   <br>
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+- JavaScript</h2>
+
 <br>
+
+<h1>⚙️ Funcionalidades</h1>
+
+<h2>- ➕ Adição
+  <br>
+- ➖ Subtração
+  <br>
+- ✖️ Multiplicação
+  <br>
+- ➗ Divisão
+  <br>
+- 🖱️ Interação por botões
+  <br>
+- 🎨 Interface simples e responsiva</h2>
+
 <br>
- <h2>🧠 O que aprendi:<h2/>
+
+<h1>🧠 Aprendizados</h1>
+
+<h2>Neste projeto pratiquei:
+  <br>
+  <br>
 - Manipulação do DOM com JavaScript
   <br>
 - Eventos de clique
-  <br> 
+  <br>
+- Lógica de programação
+  <br>
+- Operações matemáticas
+  <br>
+- Estruturação com HTML
+  <br>
 - Estilização com CSS
   <br>
-- Organização e estrutura de um projeto web
-<br>
+- Organização de projetos web</h2>
+
+
+
 <br>  
 <h2>📸 Imagem do projeto:</h2> 
 <img src= "https://github.com/msm1996/Calculadora/blob/main/Captura%20de%20tela%202025-07-19%20224103.png?raw=true" />
 
- <a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
